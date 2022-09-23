@@ -1,0 +1,16 @@
+.btn_h {
+  background-color: #8bb379 !important;
+}
+.btn_s {
+  background-color: #e6c235 !important;
+}
+.btn_m {
+  background-color: #8d74ad !important;
+}
+
+.btnMargin {
+  margin-right: 10px;
+}
+.allButtons {
+  float: left;
+}

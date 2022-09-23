@@ -1,0 +1,19 @@
+.menuItems {
+  color: black !important;
+  font-weight: bold;
+}
+
+.menuItems:hover {
+  color: #ffffff !important;
+  background-color: rgb(43 77 101) !important;
+}
+
+.menuActive {
+  color: #ffffff !important;
+  background-color: rgb(43 77 101) !important;
+}
+
+.navItems {
+  display: flex;
+  justify-content: space-between;
+}
